@@ -8,6 +8,9 @@ The dashboard provides insights into **project count, expenses, budget utilizati
 
 ---
 
+## 📷 Screenshot
+![Project Management Dashboard](Project_management_table.png)
+
 ## 📌 Key Metrics (KPI Cards)
 - **Total Projects**: 83  
 - **Total Expense**: $545.5K  
