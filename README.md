@@ -3,6 +3,9 @@
 This project is an **interactive Power BI dashboard** designed to track and analyze **project portfolio performance**.  
 The dashboard provides insights into **project count, expenses, budget utilization, project status, priorities, managers, and locations**.
 
+## 📷 Screenshot
+![Project Management Dashboard](Project_Management_Report.SS.png)
+
 ---
 
 ## 📌 Key Metrics (KPI Cards)
@@ -90,8 +93,7 @@ The dashboard provides insights into **project count, expenses, budget utilizati
 
 ---
 
-## 📷 Screenshot
-![Project Management Dashboard](Project_Management_Report.SS.png)
+
 
 ---
 
