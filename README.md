@@ -4,7 +4,7 @@ This project is an **interactive Power BI dashboard** designed to track and anal
 The dashboard provides insights into **project count, expenses, budget utilization, project status, priorities, managers, and locations**.
 
 ## 📷 Screenshot
-![Project Management Dashboard](Project_Management_Report.SS.png)
+![Project Management Dashboard](Project_management_dashboard.png)
 
 ---
 
